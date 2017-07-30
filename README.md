@@ -1,2 +1,2 @@
-# curso-linux
-Curso de Linux básico
+# curso-gnu-linux
+Curso de GNU/Linux básico
